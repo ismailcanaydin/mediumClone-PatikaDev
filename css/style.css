@@ -1,0 +1,31 @@
+.navbar-backgraund {
+    background-color: #FFC017;
+}
+
+body {
+    margin-top: 5px;
+    font-family: 'Charis SIL', serif;
+    font-family: 'Gentium Plus', serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-size {
+    font-size: 13px;
+}
+
+.icon {
+    font-size: 30px;
+}
+
+hr {
+    background-color: #FFC017;
+}
+
+.nav-fix {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 70px;
+    background-color: #FFC017;
+}
