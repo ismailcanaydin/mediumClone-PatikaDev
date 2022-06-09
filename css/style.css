@@ -29,3 +29,8 @@ hr {
     height: 70px;
     background-color: #FFC017;
 }
+
+#right-panel {
+    position: sticky;
+    top: 90px;
+}
